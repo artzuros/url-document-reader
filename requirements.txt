@@ -2,5 +2,4 @@
 selenium==3.141.0
 python-docx==0.8.11
 langchain
-pickle
-faiss
+faiss-cpu
