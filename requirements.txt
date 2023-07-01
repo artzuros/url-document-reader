@@ -3,3 +3,4 @@ selenium==3.141.0
 python-docx==0.8.11
 langchain
 faiss-cpu
+pip install protobuf==3.19.*
