@@ -1,0 +1,6 @@
+﻿streamlit==0.86.0
+selenium==3.141.0
+python-docx==0.8.11
+langchain
+pickle
+faiss
