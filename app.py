@@ -70,7 +70,7 @@ def main():
                                                   chunk_overlap=200)
             documents = text_splitter.split_documents(data)
         
-        os.environ["OPENAI_API_KEY"] = "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"
+        os.environ["OPENAI_API_KEY"] = "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"
 
         embeddings = OpenAIEmbeddings()
         vectorstore = FAISS.from_documents(documents, embeddings)
